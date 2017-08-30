@@ -1,0 +1,8 @@
+2017-08-30 13:00:05,813 [9] INFO CSharpLog4netEx.Program - Hello logging world!
+2017-08-30 14:25:08,671 [10] INFO CSharpLog4netEx.Program - Hello logging world!
+2017-08-30 14:30:54,153 [9] INFO LogFileLogger - Hello logging world!
+2017-08-30 14:31:28,809 [9] INFO LogFileLogger - Hello logging world!
+2017-08-30 15:16:42,034 [8] INFO LogFileLogger - Hello logging world!
+2017-08-30 15:17:33,846 [10] INFO LogFileLogger - Hello logging world!
+2017-08-30 15:20:53,196 [7] INFO LogFileLogger - Hello logging world!
+2017-08-30 15:21:55,327 [9] INFO LogFileLogger - Hello logging world!

@@ -1,0 +1,9 @@
+E:\Nagajyothy\TechnicalStuff\CSharpLog4netEx\CSharpLog4netEx\bin\Debug\CSharpLog4netEx.exe.config
+E:\Nagajyothy\TechnicalStuff\CSharpLog4netEx\CSharpLog4netEx\bin\Debug\CSharpLog4netEx.exe
+E:\Nagajyothy\TechnicalStuff\CSharpLog4netEx\CSharpLog4netEx\bin\Debug\CSharpLog4netEx.pdb
+E:\Nagajyothy\TechnicalStuff\CSharpLog4netEx\CSharpLog4netEx\bin\Debug\log4net.dll
+E:\Nagajyothy\TechnicalStuff\CSharpLog4netEx\CSharpLog4netEx\bin\Debug\log4net.xml
+E:\Nagajyothy\TechnicalStuff\CSharpLog4netEx\CSharpLog4netEx\obj\Debug\CSharpLog4netEx.csprojResolveAssemblyReference.cache
+E:\Nagajyothy\TechnicalStuff\CSharpLog4netEx\CSharpLog4netEx\obj\Debug\CSharpLog4netEx.exe
+E:\Nagajyothy\TechnicalStuff\CSharpLog4netEx\CSharpLog4netEx\obj\Debug\CSharpLog4netEx.pdb
+E:\Nagajyothy\TechnicalStuff\CSharpLog4netEx\CSharpLog4netEx\bin\Debug\log4net.config
